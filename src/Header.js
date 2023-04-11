@@ -33,6 +33,7 @@ function Header() {
         </div>
 
         <div className="header__right">
+            {/* Frontend Pending */}
             <HeaderOption Icon = {HomeIcon} title = "Home"/>
             <HeaderOption Icon = {SupervisorAccountIcon} title = "My Network"/>
             <HeaderOption Icon = {BusinessCenterIcon} title = "Jobs"/>
